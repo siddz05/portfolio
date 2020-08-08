@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/siddz05.github.io/portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/siddz05.github.io/portfolio/static/js/main.a825e322.chunk.js",
-    "main.js.map": "/siddz05.github.io/portfolio/static/js/main.a825e322.chunk.js.map",
+    "main.js": "/siddz05.github.io/portfolio/static/js/main.ae7a062e.chunk.js",
+    "main.js.map": "/siddz05.github.io/portfolio/static/js/main.ae7a062e.chunk.js.map",
     "runtime-main.js": "/siddz05.github.io/portfolio/static/js/runtime-main.19d0aa3c.js",
     "runtime-main.js.map": "/siddz05.github.io/portfolio/static/js/runtime-main.19d0aa3c.js.map",
     "static/js/2.81874adf.chunk.js": "/siddz05.github.io/portfolio/static/js/2.81874adf.chunk.js",
     "static/js/2.81874adf.chunk.js.map": "/siddz05.github.io/portfolio/static/js/2.81874adf.chunk.js.map",
     "index.html": "/siddz05.github.io/portfolio/index.html",
-    "precache-manifest.0b2e092a6a26cd6a87e75e88a1858da9.js": "/siddz05.github.io/portfolio/precache-manifest.0b2e092a6a26cd6a87e75e88a1858da9.js",
+    "precache-manifest.ae0e7a8f743cc542c5c45ab98335eb7d.js": "/siddz05.github.io/portfolio/precache-manifest.ae0e7a8f743cc542c5c45ab98335eb7d.js",
     "service-worker.js": "/siddz05.github.io/portfolio/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/siddz05.github.io/portfolio/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.81874adf.chunk.js.LICENSE.txt": "/siddz05.github.io/portfolio/static/js/2.81874adf.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.19d0aa3c.js",
     "static/js/2.81874adf.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a825e322.chunk.js"
+    "static/js/main.ae7a062e.chunk.js"
   ]
 }
