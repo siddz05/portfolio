@@ -1,11 +1,9 @@
-import React from 'react';
+import React from "react";
 
-function About(){
-
-return(
-
+function About() {
+  return (
     <div className="About">
-       <div id="about">
+      <div id="about">
         <h2 className="major">About</h2>
         <span className="image main">
           <img src={require("../images/pic03.jpg")} />
@@ -20,8 +18,7 @@ return(
         </p>
       </div>
     </div>
-);
+  );
 }
-
 
 export default About;
